@@ -15,10 +15,10 @@
             <h4 class="card-title">Felix Santiago Martínez Pérez</h4>
             <h5 class="card-title">22/Enero/1997</h5>
             <h5 class="card-title">felixmtz@pm.me</h5>
-            <p class="card-text">Descarga Cv.</p>
+         
           </div>
           <div class="card-footer text-muted">
-            <button type="button" class="btn btn-info">Descarga</button>
+            <button type="button" class="btn btn-info">Ver Cv.</button>
           </div>
         </div>
       </div>
