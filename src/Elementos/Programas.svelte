@@ -4,7 +4,7 @@
 <section class="layout">
   <div class="centro">
     <div class="card"  style="width: 90%; height: 90%;">
-      <img src="../public/s.jpeg" class="card-img-top" alt="..." />
+      <img src="https://portafolio-entj.vercel.app/s.jpeg" class="card-img-top" alt="..." />
       <div class="card-body">
         <h5 class="card-title">Nombre de proyecto</h5>
         <p class="card-text">Contenido del proyecto</p>
@@ -14,7 +14,7 @@
   </div>
   <div class="centro">
     <div class="card" style="width: 90%; height: 90%;">
-      <img src="../public/s.jpeg" class="card-img-top" alt="..." />
+      <img src="https://portafolio-entj.vercel.app/s.jpeg" class="card-img-top" alt="..." />
       <div class="card-body">
         <h5 class="card-title">Nombre de proyecto</h5>
         <p class="card-text">Contenido del proyecto</p>
@@ -24,7 +24,7 @@
   </div>
   <div class="centro">
     <div class="card"  style="width: 90%; height: 90%;">
-      <img src="../public/s.jpeg" class="card-img-top" alt="..." />
+      <img src="https://portafolio-entj.vercel.app/s.jpeg" class="card-img-top" alt="..." />
       <div class="card-body">
         <h5 class="card-title">Nombre de proyecto</h5>
         <p class="card-text">Contenido del proyecto</p>
@@ -34,7 +34,7 @@
   </div>
   <div class="centro">
     <div class="card"  style="width: 90%; height: 90%;">
-      <img src="../public/s.jpeg" class="card-img-top" alt="..." />
+      <img src="https://portafolio-entj.vercel.app/s.jpeg" class="card-img-top" alt="..." />
       <div class="card-body">
         <h5 class="card-title">Nombre de proyecto</h5>
         <p class="card-text">Contenido del proyecto</p>
