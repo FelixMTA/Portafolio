@@ -6,7 +6,7 @@
   <section class="layout">
     <div class="sidebar">
       <div class="centrar">
-        <img src="./public/ima.jpg" alt="imagen" class="circulo" />
+        <img src="https://portafolio-entj.vercel.app/ima.jpg" alt="imagen" class="circulo" />
       </div>
       <div class="centro">
         <div class="card text-center">
