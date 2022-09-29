@@ -6,16 +6,19 @@
   <section class="layout">
     <div class="sidebar">
       <div class="centrar">
-        <img src="https://portafolio-entj.vercel.app/ima.jpg" alt="imagen" class="circulo" />
+        <img
+          src="https://portafolio-entj.vercel.app/ima.jpg"
+          alt="imagen"
+          class="circulo"
+        />
       </div>
       <div class="centro">
         <div class="card text-center">
-          <div class="card-header color:primary ">Desarrollo Web</div>
+          <div class="card-header color:primary "><b>Programador</b></div>
           <div class="card-body">
             <h4 class="card-title">Felix Santiago Martínez Pérez</h4>
             <h5 class="card-title">22/Enero/1997</h5>
             <h5 class="card-title">felixmtz@pm.me</h5>
-         
           </div>
           <div class="card-footer text-muted">
             <button type="button" class="btn btn-info">Ver Cv.</button>
@@ -26,20 +29,26 @@
 
     <div class="body">
       <div class="parrafos">
-        <h1>Desarrollo Web</h1>
-        <h2>En este momento he realizado trabajos como se muestran en mi portafolio con ello ganando experiencia.</h2>
-        <h3>Las ideas principales son la resolución de los problemas planteados.</h3>
-      <h3>soluciones</h3>
-     
+        <h1><b>Programador</b></h1>
+        <h3>
+          Mi nombre es Félix Santiago Martínez Pérez me interesa el desarrollo de
+          funcionalidades que den soluciones a problemas de la vida diaria y
+          laboral.
+        </h3>
+        <h3>
+          En este momento he realizado trabajos como se muestran en mi
+          portafolio con ello he ganando experiencia y un interés a seguir mejorando cada día más.
+        </h3>
       </div>
     </div>
   </section>
 </body>
+
 <Programas />
 
 <style>
   body {
-    background-image: url("https://cdn.pixabay.com/photo/2016/12/09/08/06/texture-1893783_1280.jpg");
+    background-image: url("./fractal.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -47,7 +56,7 @@
   }
   .layout {
     width: 100%;
-
+    min-width: 500px;
     display: grid;
     grid:
       "sidebar body" 1fr
@@ -82,11 +91,10 @@
     text-align: center;
   }
   .parrafos {
-    color: rgb(225, 211, 208);
+    color: rgb(16, 16, 17);
     margin: 20%;
     text-align: center;
-  
+    -webkit-text-stroke: 0.6px rgb(211, 227, 230);
   }
-
-
+  
 </style>

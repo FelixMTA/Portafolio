@@ -1,5 +1,10 @@
+<script>
+    import Niveles from "./Niveles.svelte";
+</script>
 
-<h1>Proyectos realizados</h1>
+<Niveles/>
+<div class="fondo">
+<h1 class="titulo"><b> Proyectos realizados</b></h1>
 
 <section class="layout">
   <div class="centro">
@@ -44,7 +49,7 @@
   </div>
   
 </section>
-
+</div>
 <style>
   .layout {
     display: grid;
@@ -53,10 +58,27 @@
     gap: 8px;
    
    
+   
   }
 .centro{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.titulo{
+
+text-align: center;
+
+margin: 0%;
+background-color: rgba(255, 255, 255, 0.397);
+
+}
+.fondo{
+  background-image: url("./imagenAbajo.jpg");
+  background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
 }
 </style>
