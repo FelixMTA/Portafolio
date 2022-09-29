@@ -44,8 +44,8 @@
   .layout {
     width: 100%;
     display: flex;
-    gap: 16px;
     justify-content: center;
+    min-width: 50px;
   }
 
   .grow1 {
