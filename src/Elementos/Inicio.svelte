@@ -56,7 +56,7 @@
   }
   .layout {
     width: 100%;
-    min-width: 500px;
+   
     display: grid;
     grid:
       "sidebar body" 1fr
