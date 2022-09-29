@@ -48,7 +48,7 @@
 
 <style>
   body {
-    background-image: url("./fractal.jpg");
+    background-image: url("https://portafolio-entj.vercel.app/fractal.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
