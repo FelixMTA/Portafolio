@@ -61,7 +61,7 @@ function Activo(){
       <div class="card-body">
         <h5 class="card-title">Ventas de una tienda con c#</h5>
         <p class="card-text">En este proyecto se implementan funciones como la de un cajero comercial para el cobro de prendas.</p>
-        <a href="/"target="_blank" class="btn btn-primary">Ir a GitHub</a>
+        <a href="https://github.com/FelixMTA/proyectos/tree/main/Ventas"target="_blank" class="btn btn-primary">Ir a GitHub</a>
       </div>
     </div>
   </div>
