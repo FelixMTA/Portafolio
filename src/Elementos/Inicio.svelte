@@ -1,5 +1,10 @@
 <script>
   import Programas from "./Programas.svelte";
+
+
+  function descarga(){
+    location.href="./Cv.pdf"
+  }
 </script>
 
 <body>
@@ -21,7 +26,7 @@
             <h5 class="card-title">felixmtz@pm.me</h5>
           </div>
           <div class="card-footer text-muted">
-            <button type="button" class="btn btn-info">Ver Cv.</button>
+            <button type="button" class="btn btn-info" on:click={descarga}>Ver Cv.</button>
           </div>
         </div>
       </div>
@@ -56,7 +61,7 @@
   }
   .layout {
     width: 100%;
-   
+   min-width: 400px;
     display: grid;
     grid:
       "sidebar body" 1fr
