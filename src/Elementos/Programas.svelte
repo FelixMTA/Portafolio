@@ -21,7 +21,7 @@ function Activo(){
       <div class="card-body">
         <h5 class="card-title">Conexion api peliculas</h5>
         <p class="card-text">Proyecto svelte-javascript donde se muestra el catalogo de peliculas, descripciones y puntuación de estas.</p>
-        <a href="/" class="btn btn-primary">Ver GitHub</a>
+        <a href="https://github.com/FelixMTA/proyectos/tree/main/peliculas-api"target="_blank"  class="btn btn-primary">Ver GitHub</a>
       </div>
     </div>
   </div>
@@ -31,7 +31,7 @@ function Activo(){
       <div class="card-body">
         <h5 class="card-title">Cajero java</h5>
         <p class="card-text">En este proyecto se simula el funcionamiento de un cajero en java del lado del backend <br> <br></p>
-        <a href="/" class="btn btn-primary">Ir a GitHub</a>
+        <a href="https://github.com/FelixMTA/proyectos/tree/main/Cajerojava"target="_blank" class="btn btn-primary">Ir a GitHub</a>
       </div>
     </div>
   </div>
@@ -41,7 +41,7 @@ function Activo(){
       <div class="card-body">
         <h5 class="card-title">Chat de una tienda con accesos</h5>
         <p class="card-text">Se muestra el funcionamiento de un chat online con java y sus partes funcionales como los privilegios <br><br></p>
-        <a href="/" class="btn btn-primary">Ir a GitHub</a>
+        <a href="https://github.com/FelixMTA/proyectos/tree/main/chat%20y%20tienda%20java"target="_blank" class="btn btn-primary">Ir a GitHub</a>
       </div>
     </div>
   </div>
@@ -49,9 +49,9 @@ function Activo(){
     <div class="card"  style="width: 90%; height: 90%;">
       <img src="vacunas.png" class="card-img-top" alt="..." />
       <div class="card-body">
-        <h5 class="card-title">Vacunas covis</h5>
+        <h5 class="card-title">Vacunas covid</h5>
         <p class="card-text">En este proyecto se muestra las funcionalidades de caracteristicas de las vacunas contra covid.</p>
-        <a href="/" class="btn btn-primary">Ir a GitHub</a>
+        <a href="https://github.com/FelixMTA/proyectos/tree/main/Vacunascovidc%23"target="_blank" class="btn btn-primary">Ir a GitHub</a>
       </div>
     </div>
   </div>
@@ -61,7 +61,7 @@ function Activo(){
       <div class="card-body">
         <h5 class="card-title">Ventas de una tienda con c#</h5>
         <p class="card-text">En este proyecto se implementan funciones como la de un cajero comercial para el cobro de prendas.</p>
-        <a href="/" class="btn btn-primary">Ir a GitHub</a>
+        <a href="/"target="_blank" class="btn btn-primary">Ir a GitHub</a>
       </div>
     </div>
   </div>
@@ -71,7 +71,7 @@ function Activo(){
       <div class="card-body">
         <h5 class="card-title">CV.</h5>
         <p class="card-text">Este proyecto es el que se encuentra la implementación de esta pagina web donde se muestran los portafolios y caracteristics mias. <br><br><br><br></p>
-        <a href="/" class="btn btn-primary">Ir a GitHub</a>
+        <a href="https://github.com/FelixMTA/Portafolio"target="_blank" class="btn btn-primary">Ir a GitHub</a>
       </div>
     </div>
   </div>

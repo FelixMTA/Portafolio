@@ -3,7 +3,7 @@
 
 
   function descarga(){
-    location.href="./Cv.pdf"
+    location.href="https://portafolio-entj.vercel.app/Cv.pdf"
   }
 </script>
 
@@ -26,7 +26,7 @@
             <h5 class="card-title">felixmtz@pm.me</h5>
           </div>
           <div class="card-footer text-muted">
-            <button type="button" class="btn btn-info" on:click={descarga}>Ver Cv.</button>
+            <a href="https://portafolio-entj.vercel.app/Cv.pdf"  target="_blank">Ver Cv</a>
           </div>
         </div>
       </div>
